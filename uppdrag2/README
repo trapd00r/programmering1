@@ -1,0 +1,28 @@
+
+Uppgift 2: Avrundaren
+
+Denna uppgift handlar om flyttal och att avrunda sådana.
+
+Uppgiften går ut på att du ska be användaren skriva in ett tal med decimaler.
+
+Därefter ska ni be användaren skriva in hur många decimaler användaren vill ha.
+
+Din kod ska avrunda talet enligt ovan, men också med ett på förbestämt antal decimaler (exempelvis tre).
+
+Exempel:
+
+Användaren skriver in talet 1,3457322 och 5 för antal decimaler. Talet redovisas dels med så många decimaler som användaren valt (1,34573), samt även med tre decimaler (1,346). 
+
+Ni kan alltså prova att jobba med avrundning på mer än ett sätt.
+
+Detta är en uppgift där ni delvis får söka lösning på problemet på nätet eller andra böcker. Många är vana vid att söka på nätet men det är viktigt att alla vänjer sig vid detta arbetssätt.
+
+Tips: Titta in Math.Round() eller formatering av strängar exempelvis i detta material
+Fundera över
+
+Om ni sitter vid olika datorer och jobbar eller läser exempel på nätet om decimaltal så kan det vara så att decimaltecknet är olika - ibland används ett decimaltecken (",") och ibland används en punkt ("."). Fundera över varför. Detta går för övrigt att lösa så att programmet är konsekvent oberoende av vilken dator man sitter vid men det är ett senare bekymmer.
+
+Fundera också över skillnaden mellan double och float. 
+
+Vad händer om du gör om ett decimaltal till ett heltal (int) - avrundas talet korrekt då?
+
