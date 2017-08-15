@@ -1,0 +1,39 @@
+Denna uppgift 
+handlar (minst) om
+
+Två variabeltyper
+
+Matematiska uträkningar
+
+Hantera utskrifter
+I denna uppgift ska du fråga användaren 
+efter personens 
+förnamn
+och efternamn, 
+samt vidare personens ålder.
+Dessa värden ska 
+lagras i lämpliga variabler.
+Därefter ska det skrivas ut 
+hur många år 
+det är kvar till pensionen
+, tillsammans med 
+användarens för
+-
+och efternamn
+. Det innebär att om personen skriver in åldern 25 så ska det stå att personen 
+har 40 år kvar till pensionen (6
+5
+-
+25).
+Tänk på 
+hur utskrifterna ser ut 
+–
+programmet 
+ska se trevligt ut helt enkelt.
+Utskriften i slutet kan exempelvis se ut så här:
+Hej 
+Martin Persson
+! De
+t är nu 
+22 
+år kvar till du går i pen
