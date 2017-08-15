@@ -1,0 +1,16 @@
+C:\Users\scp1\Desktop\csharp\hwapp\bin\Debug\netcoreapp1.1\hwapp.deps.json
+C:\Users\scp1\Desktop\csharp\hwapp\bin\Debug\netcoreapp1.1\hwapp.runtimeconfig.json
+C:\Users\scp1\Desktop\csharp\hwapp\bin\Debug\netcoreapp1.1\hwapp.runtimeconfig.dev.json
+C:\Users\scp1\Desktop\csharp\hwapp\bin\Debug\netcoreapp1.1\hwapp.dll
+C:\Users\scp1\Desktop\csharp\hwapp\bin\Debug\netcoreapp1.1\hwapp.pdb
+C:\Users\scp1\Desktop\csharp\hwapp\obj\Debug\netcoreapp1.1\hwapp.AssemblyInfo.cs
+C:\Users\scp1\Desktop\csharp\hwapp\obj\Debug\netcoreapp1.1\hwapp.dll
+C:\Users\scp1\Desktop\csharp\hwapp\obj\Debug\netcoreapp1.1\hwapp.pdb
+C:\Users\scp1\Desktop\csharp\uppdrag1\bin\Debug\netcoreapp1.1\hwapp.deps.json
+C:\Users\scp1\Desktop\csharp\uppdrag1\bin\Debug\netcoreapp1.1\hwapp.runtimeconfig.json
+C:\Users\scp1\Desktop\csharp\uppdrag1\bin\Debug\netcoreapp1.1\hwapp.runtimeconfig.dev.json
+C:\Users\scp1\Desktop\csharp\uppdrag1\bin\Debug\netcoreapp1.1\hwapp.dll
+C:\Users\scp1\Desktop\csharp\uppdrag1\bin\Debug\netcoreapp1.1\hwapp.pdb
+C:\Users\scp1\Desktop\csharp\uppdrag1\obj\Debug\netcoreapp1.1\hwapp.AssemblyInfo.cs
+C:\Users\scp1\Desktop\csharp\uppdrag1\obj\Debug\netcoreapp1.1\hwapp.dll
+C:\Users\scp1\Desktop\csharp\uppdrag1\obj\Debug\netcoreapp1.1\hwapp.pdb
