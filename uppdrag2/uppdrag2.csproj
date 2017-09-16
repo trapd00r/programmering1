@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RuntimeIdentifiers>win7-x64</RuntimeIdentifiers> 
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Colorful.Console" Version="1.1.2" />
+  </ItemGroup>
+</Project>

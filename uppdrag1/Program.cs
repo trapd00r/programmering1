@@ -3,10 +3,9 @@
 
  author: Magnus Woldrich
 contact: m@japh.se
-  mtime: 2017-08-14
+  mtime: 2017-08-15
 
 */
-
 
 using System;
 namespace hwapp
@@ -76,6 +75,11 @@ namespace hwapp
             Console.ResetColor();
             // Behövs antagligen inte, men better safe than sorry
             Console.Out.NewLine = "\r\n";
+            // När programmet är kompilerat och startas från exempelvis explorer, så hinner
+            // vi inte se output när uträkningen är klar innan cmd.exe avslutas. Vänta därför
+            // på input från användaren.
+            Console.WriteLine("Tryck ENTER for att avsluta");
+            Console.ReadLine();
         }
     }
 }
