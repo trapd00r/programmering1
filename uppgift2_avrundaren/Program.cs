@@ -14,8 +14,8 @@ namespace uppgift2_avrundaren
                 Console.Write("Inte ett flyttal. Forsok igen: ");
                 decimaltal = Console.ReadLine();
             }
-            Console.Write("Input: {0}\n TryParse: {1}\n Math.Round: {2}\n", 
-                decimaltal, flyttal, Math.Round(flyttal, 3));
+            Console.Write("Input: {0}\n TryParse: {1}\n Math.Round: {2}\n n antal vardesiffror: {1:f3}\n", 
+                decimaltal, flyttal, Math.Round(flyttal, 5));
         }
     }
 }
