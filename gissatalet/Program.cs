@@ -8,7 +8,7 @@ namespace gissatalet {
             Console.WriteLine("------- gissa talet -------");
 
             Random randomerare = new Random();
-            int slumptal = randomerare.Next(0, 100);
+            int slumptal = randomerare.Next(1, 101);
 
             /* gör en tilldelning, annars klagar kompilatorn på use of unassigned local variable */
             string user_input = "";
